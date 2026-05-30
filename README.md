@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Ye-gang Han
 
-<!--
-**juikjuiks/juikjuiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+안녕하세요, 현재 한국에너지공과대학교(KENTECH) 학부생 1학년으로 재학 중인 한예강입니다. 코드를 아직 잘 짜지는 못하지만, 열심히 배우고 있습니다.
 
-Here are some ideas to get you started:
+Hi! I'm currently a 1st-year undergraduate student at Korea National University of Energy Science and Technology (KENTECH). Although my coding skills are still developing, I'm actively learning and improving every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Python**
+
+## 🔗 Links
+- Personal Website (Coming Soon)
+
+---
+*Feel free to check out my repositories and projects!*
