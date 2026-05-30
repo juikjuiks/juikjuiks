@@ -9,7 +9,7 @@ Hi! I'm currently a 1st-year undergraduate student at Korea Institute of Energy 
 - **Python**
 
 ## 🔗 Links
-- Personal Website (Coming Soon)
+- Personal Website (https://sites.google.com/view/hanyegang)
 
 ---
 *Feel free to check out my repositories and projects!*
