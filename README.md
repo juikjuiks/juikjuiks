@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ye-gang Han
+# 👋 Hello, I'm YeGang Han
 
 ## About Me
 안녕하세요, 현재 한국에너지공과대학교(KENTECH) 학부생 1학년으로 재학 중인 한예강입니다. 코드를 아직 잘 짜지는 못하지만, 열심히 배우고 있습니다.
